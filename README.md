@@ -6,7 +6,7 @@
 ## Project Description
 Performed manual testing on the [OrangeHRM demo web app](https://opensource-demo.orangehrmlive.com/), simulating a real-world QA process.
 
-### ✔What I Did
+### What I Did
 - Designed and executed 10 test cases covering:
   - Login functionality
   - Error validations
